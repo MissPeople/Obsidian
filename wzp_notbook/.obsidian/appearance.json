@@ -1,4 +1,6 @@
 {
-  "accentColor": "",
-  "baseFontSize": 12
+  "accentColor": "#647d64",
+  "baseFontSize": 12,
+  "cssTheme": "Comfort",
+  "theme": "moonstone"
 }

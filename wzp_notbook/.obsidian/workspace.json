@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "33cbca2c6ed20dfa",
+        "id": "771e9abdd06488ae",
         "type": "tabs",
         "children": [
           {
-            "id": "57751414835d83f7",
+            "id": "b9de8cfe6b32a846",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD语法.md",
+                "file": "杂项/常用命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a47e781ff11c21fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "杂项/Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "74d4a53669d703a7",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MD语法.md",
+                "file": "杂项/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +116,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MD语法.md",
+                "file": "杂项/Git.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,16 +139,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MD语法.md"
+                "file": "杂项/Git.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +160,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "57751414835d83f7",
+  "active": "a47e781ff11c21fb",
   "lastOpenFiles": [
+    "杂项/MD语法.md",
+    "杂项/Git.md",
+    "杂项/常用命令.md",
+    "flutter/技术/Riverpod.md",
+    "compose/Modifier.md",
+    "Pasted image 20240130170906.png",
+    "Pasted image 20240130173352.png",
+    "Pasted image 20240130172419.png",
+    "compose/State.md",
+    "compose/image/Pasted image 20240130170654.png",
+    "compose/image/Pasted image 20240130170306.png",
+    "compose/image/Pasted image 20240130162056.png",
+    "android/四大组件/image/Pasted image 20240129122418.png",
+    "compose/image",
+    "android/四大组件/image/Pasted image 20240129122324.png",
+    "android/四大组件/image/111.png",
+    "compose/常用库.md",
+    "android/四大组件/Activity.md",
+    "compose",
+    "Pasted image 20240129121637.png",
+    "android/四大组件/image",
+    "图片/屏幕录制2024-01-24 16.34.57.mov",
+    "图片",
+    "android/flow/flow.md",
+    "android/四大组件",
+    "android/flow",
+    "android/未命名.md",
+    "android",
+    "未命名.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "图片/屏幕录制2024-01-24 16.37.31.mov",
+    "().md",
+    "flutter/技术",
+    "temple/未命名.md",
     "www.baidu.com.md",
-    "url,title.md",
-    "MD语法.md"
+    "url,title.md"
   ]
 }
